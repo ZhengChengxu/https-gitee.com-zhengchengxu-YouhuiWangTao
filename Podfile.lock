@@ -1,0 +1,82 @@
+PODS:
+  - AFNetworking (3.1.0):
+    - AFNetworking/NSURLSession (= 3.1.0)
+    - AFNetworking/Reachability (= 3.1.0)
+    - AFNetworking/Security (= 3.1.0)
+    - AFNetworking/Serialization (= 3.1.0)
+    - AFNetworking/UIKit (= 3.1.0)
+  - AFNetworking/NSURLSession (3.1.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.1.0)
+  - AFNetworking/Security (3.1.0)
+  - AFNetworking/Serialization (3.1.0)
+  - AFNetworking/UIKit (3.1.0):
+    - AFNetworking/NSURLSession
+  - CYLTabBarController (1.17.8)
+  - DZNEmptyDataSet (1.8.1)
+  - IQKeyboardManager (5.0.7)
+  - JCore (1.1.7)
+  - JPush (3.0.8):
+    - JCore (~> 1.1.7)
+  - JPVideoPlayer (3.1.0)
+  - LMJScrollTextView2 (2.1.0)
+  - Masonry (1.1.0)
+  - MJExtension (3.0.13)
+  - MJRefresh (3.1.15.3)
+  - SDAutoLayout (2.2.0)
+  - SDCycleScrollView (1.75):
+    - SDWebImage (>= 4.0.0)
+  - SDWebImage (4.2.2):
+    - SDWebImage/Core (= 4.2.2)
+  - SDWebImage/Core (4.2.2)
+  - SVProgressHUD (2.2.2)
+  - TYPagerController (1.0.6)
+  - UMengAnalytics-NO-IDFA (4.2.5)
+  - YYKit (1.0.9):
+    - YYKit/no-arc (= 1.0.9)
+  - YYKit/no-arc (1.0.9)
+
+DEPENDENCIES:
+  - AFNetworking
+  - CYLTabBarController (~> 1.17.8)
+  - DZNEmptyDataSet (~> 1.8.1)
+  - IQKeyboardManager
+  - JPush (~> 3.0.7)
+  - JPVideoPlayer (~> 3.1.0)
+  - LMJScrollTextView2 (~> 2.1.0)
+  - Masonry (~> 1.1.0)
+  - MJExtension
+  - MJRefresh (~> 3.1.15.3)
+  - SDAutoLayout (~> 2.2.0)
+  - SDCycleScrollView (~> 1.75)
+  - SDWebImage
+  - SVProgressHUD
+  - TYPagerController (~> 1.0.6)
+  - UMengAnalytics-NO-IDFA (~> 4.2.5)
+  - YYKit (~> 1.0.9)
+
+SPEC CHECKSUMS:
+  AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
+  CYLTabBarController: c1377ee2d0ccb6c7ec642806dc04f883f7c2851e
+  DZNEmptyDataSet: 9525833b9e68ac21c30253e1d3d7076cc828eaa7
+  IQKeyboardManager: 0bfa4607d39924116b5c0c8b55b5d789288b5cba
+  JCore: f7459c81c135281a874a6beafdd321666adcc834
+  JPush: 9574d072cc37e93fa293ba69b43ce763c440943a
+  JPVideoPlayer: 1f1b5165101fb0e25273039b486c9d15897353ab
+  LMJScrollTextView2: c0d7affd9ed66563563ee3f3f15d114f484b55a4
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  MJExtension: 5932755f451458eefa24239358817f8d291240c7
+  MJRefresh: b48380ae2b927b46c4ef000de9adb8dc748e1df7
+  SDAutoLayout: c5509e77ae75735d9a39f7bc83dba6d3f75d49d8
+  SDCycleScrollView: 884b88f0266dd4708a0e1934975c69cb971707b1
+  SDWebImage: 89a9d32cd520bbb46eb14e541d5109b3564af198
+  SVProgressHUD: 59b2d3dabacbd051576d21d32293ca7228dc18b0
+  TYPagerController: f24234d0234c5ada6609eadc62ba809f072ae8fe
+  UMengAnalytics-NO-IDFA: 16666e32edce5be44ae5b14aaaa7f3582e09d6ab
+  YYKit: 7cda43304a8dc3696c449041e2cb3107b4e236e7
+
+PODFILE CHECKSUM: d7c628421a7f2847606989c8915a4a7bd007af96
+
+COCOAPODS: 1.4.0
